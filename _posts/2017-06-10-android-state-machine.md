@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "State Machine"
+title: "Android State Machine"
 date: 2017-06-10
 ---
 
