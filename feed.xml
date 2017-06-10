@@ -2,7 +2,7 @@
 layout: feed
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<default xmlns="http://www.w3.org/2005/Atom">
 
     <title>Tang Z's Blog</title>
     <link href="http://t6ui.github.io/blog/atom.xml" rel="self"/>
@@ -24,4 +24,4 @@ layout: feed
         </entry>
     {% endfor %}
 
-</feed>
+</default>
